@@ -235,9 +235,6 @@ about.html
 
 product.html
 
-product.html
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -469,7 +466,7 @@ contact.html
 
 ![alt text](<Screenshot 2024-05-11 110129.png>)
 
-![alt text](<Screenshot 2024-05-11 110207.png>)
+![alt text](<Screenshot 2024-05-11 111640.png>)
 
 ![alt text](<Screenshot 2024-05-11 110240.png>)
 ## RESULT:
